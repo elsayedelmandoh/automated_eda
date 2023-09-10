@@ -6,6 +6,10 @@ The tool provides an interactive interface to perform various data analysis task
 
 The tool will use Python's Matplotlib, Seaborn, and Plotly libraries to create interactive data visualizations that can be explored and customized by the user
 
+## Hosting
+
+https://automatededa-4mjyeuzugvfft9uout9on7.streamlit.app/
+
 ## Features
 
 - Load data from CSV, Excel, TXT files, or SQL databases.
