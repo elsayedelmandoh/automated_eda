@@ -6,6 +6,15 @@ The tool provides an interactive interface to perform various data analysis task
 
 The tool will use Python's Matplotlib, Seaborn, and Plotly libraries to create interactive data visualizations that can be explored and customized by the user
 
+
+## Table of Contents
+
+- [Hosting](#hosting)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Author](#author)
+
+  
 ## Hosting
 
 https://automatededa-4mjyeuzugvfft9uout9on7.streamlit.app/
@@ -23,3 +32,7 @@ https://automatededa-4mjyeuzugvfft9uout9on7.streamlit.app/
 2. Install the required packages from file requirements
 3. Go to the project directory:
 4. open terminal and write: streamlit run main.py
+
+
+## Author
+  Elsayed Elmandoh : [Linkedin](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/).
