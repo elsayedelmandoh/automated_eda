@@ -1,18 +1,21 @@
 # Automated EDA Tool using Streamlit
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Hosting](#hosting)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Author](#author)
+
+
+## Project Overview
+
 This is an Automated EDA (Exploratory Data Analysis) Tool built using Streamlit. 
 
 The tool provides an interactive interface to perform various data analysis tasks without writing extensive code.
 
 The tool will use Python's Matplotlib, Seaborn, and Plotly libraries to create interactive data visualizations that can be explored and customized by the user
-
-
-## Table of Contents
-
-- [Hosting](#hosting)
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Author](#author)
 
   
 ## Hosting
