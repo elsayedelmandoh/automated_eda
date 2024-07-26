@@ -1,4 +1,4 @@
-# Automated EDA Tool using Streamlit
+# Automated Exploratory Data Analysis
 
 ## Table of Contents
 
@@ -6,21 +6,18 @@
 - [Hosting](#hosting)
 - [Features](#features)
 - [How to Use](#how-to-use)
+- [Contributing](#contributing)
 - [Author](#author)
 
 
 ## Project Overview
 
-This is an Automated EDA (Exploratory Data Analysis) Tool built using Streamlit. 
-
-The tool provides an interactive interface to perform various data analysis tasks without writing extensive code.
-
-The tool will use Python's Matplotlib, Seaborn, and Plotly libraries to create interactive data visualizations that can be explored and customized by the user
+Developed an AutoEDA platform that streamlines the complete lifecycle of exploratory data analysis, including data acquisition, preprocessing and visualization. The tool provides an interactive interface to perform various data analysis tasks without writing extensive code, built using Streamlit. Designed for users with minimal data science expertise.
 
   
 ## Hosting
 
-https://automatededa-4mjyeuzugvfft9uout9on7.streamlit.app/
+[Hosting](https://automatededa-4mjyeuzugvfft9uout9on7.streamlit.app/)
 
 ## Features
 
@@ -37,5 +34,16 @@ https://automatededa-4mjyeuzugvfft9uout9on7.streamlit.app/
 4. open terminal and write: streamlit run main.py
 
 
+## Contributing
+
+Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. 
+
+[![GitHub watchers](https://img.shields.io/github/watchers/elsayedelmandoh/automated_eda.svg?style=social&label=Watch)](https://GitHub.com/elsayedelmandoh/automated_eda/watchers/?WT.mc_id=academic-105485-koreyst)
+[![GitHub forks](https://img.shields.io/github/forks/elsayedelmandoh/automated_eda.svg?style=social&label=Fork)](https://GitHub.com/elsayedelmandoh/automated_eda/network/?WT.mc_id=academic-105485-koreyst)
+[![GitHub stars](https://img.shields.io/github/stars/elsayedelmandoh/automated_eda.svg?style=social&label=Star)](https://GitHub.com/elsayedelmandoh/automated_eda/stargazers/?WT.mc_id=academic-105485-koreyst)
+
 ## Author
-  Elsayed Elmandoh : [Linkedin](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/).
+
+This repository is maintained by Elsayed Elmandoh, an AI Engineer. You can connect with Elsayed on [LinkedIn and Twitter/X](https://linktr.ee/elsayedelmandoh) for updates and discussions related to Machine learning, deep learning and NLP.
+
+Happy coding!
